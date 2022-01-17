@@ -22,7 +22,7 @@
 
 ## :house: About the project
 
-This project created for a company in the beachwear business.
+Project done at an academic level.
 <br>
 
 ## :computer: Technologies
